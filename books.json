@@ -1,0 +1,272 @@
+[
+    {
+        "id": 1,
+        "author": "J.R.R. Tolkien",
+        "title": "Harry Potter",
+        "year": 1931,
+        "genre": "Mystery",
+        "pages": 617,
+        "available": true
+    },
+    {
+        "id": 2,
+        "author": "J.K. Rowling",
+        "title": "Pride and Prejudice",
+        "year": 2007,
+        "genre": "Fantasy",
+        "pages": 703,
+        "available": true
+    },
+    {
+        "id": 3,
+        "author": "J.K. Rowling",
+        "title": "1984",
+        "year": 1980,
+        "genre": "Fantasy",
+        "pages": 135,
+        "available": false
+    },
+    {
+        "id": 4,
+        "author": "Stephen King",
+        "title": "1984",
+        "year": 1981,
+        "genre": "Horror",
+        "pages": 652,
+        "available": false
+    },
+    {
+        "id": 5,
+        "author": "J.R.R. Tolkien",
+        "title": "The Shining",
+        "year": 1937,
+        "genre": "Fiction",
+        "pages": 432,
+        "available": false
+    },
+    {
+        "id": 6,
+        "author": "Jane Austen",
+        "title": "Adventures of Huckleberry Finn",
+        "year": 1958,
+        "genre": "Horror",
+        "pages": 129,
+        "available": false
+    },
+    {
+        "id": 7,
+        "author": "F. Scott Fitzgerald",
+        "title": "The Shining",
+        "year": 1937,
+        "genre": "Romance",
+        "pages": 876,
+        "available": true
+    },
+    {
+        "id": 8,
+        "author": "Isaac Asimov",
+        "title": "The Old Man and the Sea",
+        "year": 1926,
+        "genre": "Fiction",
+        "pages": 718,
+        "available": true
+    },
+    {
+        "id": 9,
+        "author": "George Orwell",
+        "title": "Pride and Prejudice",
+        "year": 1988,
+        "genre": "Mystery",
+        "pages": 707,
+        "available": true
+    },
+    {
+        "id": 10,
+        "author": "Stephen King",
+        "title": "Pride and Prejudice",
+        "year": 1903,
+        "genre": "Classic",
+        "pages": 991,
+        "available": true
+    },
+    {
+        "id": 11,
+        "author": "J.R.R. Tolkien",
+        "title": "1984",
+        "year": 1988,
+        "genre": "Horror",
+        "pages": 642,
+        "available": false
+    },
+    {
+        "id": 12,
+        "author": "J.K. Rowling",
+        "title": "Pride and Prejudice",
+        "year": 2002,
+        "genre": "Horror",
+        "pages": 548,
+        "available": true
+    },
+    {
+        "id": 13,
+        "author": "Stephen King",
+        "title": "The Great Gatsby",
+        "year": 2004,
+        "genre": "Mystery",
+        "pages": 554,
+        "available": true
+    },
+    {
+        "id": 14,
+        "author": "Jane Austen",
+        "title": "The Shining",
+        "year": 1926,
+        "genre": "Horror",
+        "pages": 393,
+        "available": true
+    },
+    {
+        "id": 15,
+        "author": "J.R.R. Tolkien",
+        "title": "Pride and Prejudice",
+        "year": 1996,
+        "genre": "Romance",
+        "pages": 476,
+        "available": true
+    },
+    {
+        "id": 16,
+        "author": "Isaac Asimov",
+        "title": "The Hobbit",
+        "year": 1990,
+        "genre": "Science Fiction",
+        "pages": 931,
+        "available": true
+    },
+    {
+        "id": 17,
+        "author": "Jane Austen",
+        "title": "Foundation",
+        "year": 1967,
+        "genre": "Horror",
+        "pages": 381,
+        "available": true
+    },
+    {
+        "id": 18,
+        "author": "Jane Austen",
+        "title": "The Hobbit",
+        "year": 1994,
+        "genre": "Horror",
+        "pages": 319,
+        "available": false
+    },
+    {
+        "id": 19,
+        "author": "Stephen King",
+        "title": "Adventures of Huckleberry Finn",
+        "year": 1922,
+        "genre": "Horror",
+        "pages": 225,
+        "available": false
+    },
+    {
+        "id": 20,
+        "author": "Jane Austen",
+        "title": "1984",
+        "year": 1941,
+        "genre": "Fantasy",
+        "pages": 834,
+        "available": false
+    },
+    {
+        "id": 21,
+        "author": "Jane Austen",
+        "title": "1984",
+        "year": 1950,
+        "genre": "Fantasy",
+        "pages": 960,
+        "available": true
+    },
+    {
+        "id": 22,
+        "author": "J.K. Rowling",
+        "title": "1984",
+        "year": 1999,
+        "genre": "Fantasy",
+        "pages": 487,
+        "available": true
+    },
+    {
+        "id": 23,
+        "author": "F. Scott Fitzgerald",
+        "title": "The Great Gatsby",
+        "year": 1910,
+        "genre": "Mystery",
+        "pages": 428,
+        "available": false
+    },
+    {
+        "id": 24,
+        "author": "F. Scott Fitzgerald",
+        "title": "Harry Potter",
+        "year": 1987,
+        "genre": "Mystery",
+        "pages": 547,
+        "available": false
+    },
+    {
+        "id": 25,
+        "author": "Ernest Hemingway",
+        "title": "Pride and Prejudice",
+        "year": 1959,
+        "genre": "Fiction",
+        "pages": 463,
+        "available": false
+    },
+    {
+        "id": 26,
+        "author": "Jane Austen",
+        "title": "The Great Gatsby",
+        "year": 1984,
+        "genre": "Romance",
+        "pages": 166,
+        "available": false
+    },
+    {
+        "id": 27,
+        "author": "Jane Austen",
+        "title": "Pride and Prejudice",
+        "year": 1907,
+        "genre": "Romance",
+        "pages": 888,
+        "available": false
+    },
+    {
+        "id": 28,
+        "author": "George Orwell",
+        "title": "1984",
+        "year": 1948,
+        "genre": "Fantasy",
+        "pages": 619,
+        "available": false
+    },
+    {
+        "id": 29,
+        "author": "Stephen King",
+        "title": "Adventures of Huckleberry Finn",
+        "year": 1906,
+        "genre": "Science Fiction",
+        "pages": 967,
+        "available": true
+    },
+    {
+        "id": 30,
+        "author": "F. Scott Fitzgerald",
+        "title": "The Shining",
+        "year": 1988,
+        "genre": "Romance",
+        "pages": 515,
+        "available": false
+    }
+]
